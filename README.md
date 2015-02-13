@@ -1,2 +1,2 @@
 # thrift
-alpha files for awesome project
+alpha files for awesome project.

@@ -15,3 +15,4 @@ For general information and future plans see the wiki in this repo.
 
 
 
+Current contributors can be found here: https://github.com/antonioortegajr/thrift/graphs/contributors

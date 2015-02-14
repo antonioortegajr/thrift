@@ -11,4 +11,7 @@ Production - Multiple users in multiple cities.
 
 **Current pahse: Alpha
 
+For general information and future plans see the wiki in this repo.
+
+
 

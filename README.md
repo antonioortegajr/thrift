@@ -3,7 +3,7 @@ Just some files for awesome project.
 
 This project wil have a few phases.
 
-Alpha - Setting up basic structure. Login system, media uploading, and diplaying said media
+Alpha - Setting up basic structure. Login system, media uploading, and displaying said media
 
 Beta - Refine the display of uploaded media. Identify bugs and or new enhancements.
 
